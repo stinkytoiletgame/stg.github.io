@@ -1,4 +1,4 @@
-AuthUserFile "stinkytoiletgame.github.io/stgweb/.htpasswd"
+AuthUserFile "stinkytoiletgame.github.io/stgweb/passwordprotect/.htpasswd"
 AuthName "Restricted Area"
 AuthType Basic
 require valid-user
